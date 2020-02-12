@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "promise-probe": "^0.1.9",
-    "reveal.js": "^3.9.0"
+    "reveal.js": "^3.9.2"
   }
 }
